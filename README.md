@@ -7,12 +7,13 @@ Phoenix is the MVC javascript client for middlemachine API.
 ### Requirements
 
 * Ruby 1.9 & Rubygems: http://www.ruby-lang.org/en/downloads/
+* Ruby DevKit (Windows) : https://github.com/oneclick/rubyinstaller/wiki/Development-Kit
 
 ### Procedure
 
-After you have Ruby and Rubygems installed, run
+After you have the requirements installed, run
 
-  `gem install bundler`
+  `gem install bundler`  
 
 This will install the `Bundler` dependency managment gem. Change the working directory to project root (where this `README` is located) and run
 
